@@ -1,0 +1,16 @@
+{
+"companyName": "PIX-FACTORY",
+"productName": "SEGRO LOGISTICS PARK SAINT-QUENTIN-FALLAVIER_APP",
+"productVersion": "0.6",
+"dataUrl": "SEGRO_WEB_Assembly.data.unityweb",
+"wasmCodeUrl": "SEGRO_WEB_Assembly.wasm",
+"wasmFrameworkUrl": "SEGRO_WEB_Assembly.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f5"
+}
